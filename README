@@ -1,3 +1,8 @@
-This is a simple script for relating Shopify products together using jQuery, the Shopify AJAX api and some simple product handle naming conventions.
+This repo has a few things I tinker with for my Shopify store that I've decided to open source.
 
-The goal was to provide a simple way to creating links between different products. I hope you find this useful.
+Everything here is provided as-is and is free for you to use and modify as ou see fit. The author assumes no responsibility for your use of any code that you find here.
+
+If you have comments, questions, or suggestions, you can contact me through my blog:
+
+http://geekswithblogs.net/gruffcode
+
