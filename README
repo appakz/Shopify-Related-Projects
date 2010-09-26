@@ -1,0 +1,3 @@
+This is a simple script for relating Shopify products together using jQuery, the Shopify AJAX api and some simple product handle naming conventions.
+
+The goal was to provide a simple way to creating links between different products. I hope you find this useful.
